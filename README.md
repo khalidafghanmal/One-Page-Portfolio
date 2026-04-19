@@ -11,8 +11,6 @@
 
 **LumenDesk** is a refined, production-minded single-page template: glass-style navigation, a code-editor hero, scroll-driven motion, an interactive work carousel (Swiper), and accessibility-minded structure—without a heavy build step.
 
-[Features](#-features) · [Preview](#-hero-preview) · [File map](#-project-structure) · [Quick start](#-quick-start) · [Customization](#-customization)
-
 </div>
 
 ---
