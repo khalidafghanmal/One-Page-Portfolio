@@ -60,7 +60,7 @@ The screenshot below is the **above-the-fold hero**: split layout with status ch
 ## Project structure
 
 ```text
-browny-v1.0/
+portfolio/
 ├── index.html                 # Single entry — all sections & asset links
 ├── image.PNG                  # Hero screenshot (this README + your marketing)
 ├── README.md                  # You are here
