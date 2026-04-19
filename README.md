@@ -100,22 +100,7 @@ portfolio/
 
 3. **Or** open `index.html` directly — most features work over `file://`; some environments still prefer HTTP for iframes or strict browser policies.
 
----
 
-## Customization
-
-| Goal | Where to look |
-|------|----------------|
-| Brand name, meta, copy | `index.html` (search for the current brand string). |
-| Colors & Tailwind tokens | `index.html` → `tailwind.config` inline script; plus `assets/css/modern.css`. |
-| Work portfolio items | `assets/js/work-portfolio.js` → `ISO_DATA` array. |
-| Client logos | `index.html` → `#clients` / `#client` carousel markup. |
-| Skills percentages | `index.html` → `#skills` → `.progress-bar` `aria-valuenow`. |
-| Hero terminal typing | `assets/js/custom.js` — logic targeting `#hero-terminal` / `#hero-terminal-code`. |
-
-
-
----
 
 
 <div align="center">
