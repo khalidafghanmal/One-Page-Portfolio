@@ -113,25 +113,13 @@ portfolio/
 | Skills percentages | `index.html` → `#skills` → `.progress-bar` `aria-valuenow`. |
 | Hero terminal typing | `assets/js/custom.js` — logic targeting `#hero-terminal` / `#hero-terminal-code`. |
 
-Replace **`image.PNG`** with your own hero capture when you rebrand; keep the filename or update the markdown image path in this README.
+
 
 ---
 
-## Browser support
-
-Targets **modern evergreen browsers** (Chrome, Firefox, Safari, Edge). IE-only shims in HTML comments are legacy and optional.
-
----
-
-## License & attribution
-
-Template evolution builds on classic single-page portfolio patterns. **Replace** placeholder names, emails, images, and client logos before publishing. If you ship a public demo, updating **`image.PNG`** keeps your README visually honest.
-
----
 
 <div align="center">
 
-**Built for clarity, motion, and a credible “design + front-end” story.**
 
 *— LumenDesk*
 
