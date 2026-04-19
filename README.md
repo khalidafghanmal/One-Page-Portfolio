@@ -23,7 +23,6 @@ The screenshot below is the **above-the-fold hero**: split layout with status ch
 
 ![LumenDesk hero section — dark theme, glass nav, code editor mockup, purple accents](image.PNG)
 
-*Hero section reference: `image.PNG` (repository root). Drop in your own export to refresh the preview for your fork.*
 
 </div>
 
