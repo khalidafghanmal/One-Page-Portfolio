@@ -84,7 +84,6 @@ portfolio/
 └── …
 ```
 
-> **Note:** Paths like `assets/logo/favicon.png` are referenced from `index.html`. Add your own favicon under `assets/logo/` if the file is missing locally.
 
 ---
 
