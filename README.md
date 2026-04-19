@@ -23,7 +23,6 @@ The screenshot below is the **above-the-fold hero**: split layout with status ch
 
 ![LumenDesk hero section — dark theme, glass nav, code editor mockup, purple accents](image.PNG)
 
-*Hero section reference: `image.PNG` (repository root). Drop in your own export to refresh the preview for your fork.*
 
 </div>
 
@@ -85,7 +84,6 @@ portfolio/
 └── …
 ```
 
-> **Note:** Paths like `assets/logo/favicon.png` are referenced from `index.html`. Add your own favicon under `assets/logo/` if the file is missing locally.
 
 ---
 
@@ -102,38 +100,11 @@ portfolio/
 
 3. **Or** open `index.html` directly — most features work over `file://`; some environments still prefer HTTP for iframes or strict browser policies.
 
----
 
-## Customization
 
-| Goal | Where to look |
-|------|----------------|
-| Brand name, meta, copy | `index.html` (search for the current brand string). |
-| Colors & Tailwind tokens | `index.html` → `tailwind.config` inline script; plus `assets/css/modern.css`. |
-| Work portfolio items | `assets/js/work-portfolio.js` → `ISO_DATA` array. |
-| Client logos | `index.html` → `#clients` / `#client` carousel markup. |
-| Skills percentages | `index.html` → `#skills` → `.progress-bar` `aria-valuenow`. |
-| Hero terminal typing | `assets/js/custom.js` — logic targeting `#hero-terminal` / `#hero-terminal-code`. |
-
-Replace **`image.PNG`** with your own hero capture when you rebrand; keep the filename or update the markdown image path in this README.
-
----
-
-## Browser support
-
-Targets **modern evergreen browsers** (Chrome, Firefox, Safari, Edge). IE-only shims in HTML comments are legacy and optional.
-
----
-
-## License & attribution
-
-Template evolution builds on classic single-page portfolio patterns. **Replace** placeholder names, emails, images, and client logos before publishing. If you ship a public demo, updating **`image.PNG`** keeps your README visually honest.
-
----
 
 <div align="center">
 
-**Built for clarity, motion, and a credible “design + front-end” story.**
 
 *— LumenDesk*
 
